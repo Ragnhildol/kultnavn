@@ -1,1 +1,2 @@
-Test dette er fortsatt en test. 
+Test dette er fortsatt en test. Og det er enda en test
+
